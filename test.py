@@ -3,7 +3,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 from selenium.webdriver.support.ui import Select
 import pandas as pd
-driver=webdriver.Chrome(executable_path="C:\\Users\\HitanshuRami\\Downloads\\chromedriver_win32 (2)\\chromedriver.exe")
+driver=webdriver.Chrome(executable_path="C:\\Users\\HitanshuRami\\Downloads\\chromedriver_win32 (2)\\chromedriver.exe") #used to set chromepath
 def f1():
     driver.maximize_window()
     driver.get("https://www.egov.aging.state.il.us/IdentityGuardAuth/IdentityGuardLogin.aspx?IGDest=https://www.egov.aging.state.il.us/eGov/root/dn.asp")
