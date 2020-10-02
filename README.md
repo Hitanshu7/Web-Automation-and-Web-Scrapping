@@ -10,4 +10,4 @@ Scraping content from a web page
 
 Extracting and transferring data between applications
 
-Clicking buttons and elements
+Clicking buttons and elements.
